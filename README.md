@@ -22,7 +22,7 @@
 
 - 🎓 **Education:** Pre-final year **B.Tech (ICT)** student at **DAIICT**.
 - 🔭 **Currently working on:** [Market Pulse](https://github.com/DakshUbhadia/Market_Pulse), a comprehensive market analysis tool.
-- 🌱 **I’m currently learning:** Advanced System Design & Scalable Cloud Architectures.
+- 🌱 **I’m currently learning:** Machine Learning.
 - 💬 **Ask me about:** Full Stack Development, Data Analysis, and Python.
 - ⚡ **Fun fact:** I optimize O(n²) loops faster than npm install finishes.
 
