@@ -216,22 +216,6 @@ const daksh = {
 <br/>
 
 
-<table>
-<tr>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DakshUbhadia&theme=tokyo_night" alt="Repos per Language"/>
-</td>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DakshUbhadia&theme=tokyo_night" alt="Most Commit Language"/>
-</td>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DakshUbhadia&theme=tokyo_night&utcOffset=5.5" alt="Productive Time"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DakshUbhadia&theme=tokyo_night" alt="Profile Details" width="100%"/>
-
 </div>
 
 <br/>
