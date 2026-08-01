@@ -52,8 +52,8 @@
 const daksh = {
   pronouns     :  "he / him",
   location     :  "Rajkot, India 📍",
-  education    :  "B.Tech ICT @ DAIICT (Pre-final year) 🎓",
-  askMeAbout   :  ["TypeScript", "Next.js", "System Design", "DSA"],
+  education    :  "B.Tech ICT @ DAIICT (Final year) 🎓",
+  askMeAbout   :  ["Next.js", "System Design", "DSA", "TypeScript"],
   learning     :  ["Advanced Algorithms", "AI/ML", "System Design"],
 };
 ```
