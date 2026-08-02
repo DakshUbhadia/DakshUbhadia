@@ -33,6 +33,15 @@
 
 <br/>
 
+<details>  
+  <summary align="center">
+      <samp>
+        <b style="font-size: 15pt;">More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&reversal=false" width="100%"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&reversal=true" width="100%"/>
@@ -314,5 +323,5 @@ const daksh = {
 </div>
 
 <br/>
-
+</details>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0c4a6e,100:0d1117&height=130&section=footer" width="100%"/>
